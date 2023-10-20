@@ -1,0 +1,43 @@
+This site is for pollution. Its a organization or committee. It will contain:
+
+1. Home page
+2. Members.
+	i. Advisory Panel (10 person, They can stay in 	home and abroad )
+		a. Life member
+		b. Membership yearly/ General Member
+		c. Student member
+		d. Membership for list of life members
+	ii. Executive council member ( They can stay in home and abroad)
+		a. President (admin)
+		b. Vice President -1
+		c. Vice President -2
+		d. Secretary
+		e. join Secretary -1
+		f. join Secretary -2
+		g. Treasurer
+		h. Member1
+		i. Member2
+		..........
+
+3. History Page: 
+	i. Establisment
+	ii. Vision
+	iii. Mission
+	iv. Objectives
+4. Activities/Events:
+	i. Foundation day celebration
+	ii. Webinar on
+	iii. Seminar
+	iv. smposium
+	v. Meeting
+	vi. General Meeting
+	vii. EC Meeting
+	viii. Advisory Panel Meeting
+	ix. Environmental Day Celebration
+	x Climate Day Calebration
+	xi. World Metrological Day Celebration
+	xii. Quiz competition
+	xiii. Newsletter released
+5. Gellery
+6. Newsletter
+7. Contact
